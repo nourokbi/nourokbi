@@ -33,9 +33,8 @@ Alongside my frontend expertise, I bring a strong foundation in **programming** 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" />
 
   <!-- GIS (custom icons since devicon has none) -->
-  <img src="https://img.icons8.com/color/48/000000/arcgis.png" width="50" height="50" />
+  <img src="https://img.icons8.com/color/48/000000/globe--v2.png" width="50" height="50" alt="ArcGIS" />
   <img src="https://img.icons8.com/color/48/000000/globe--v1.png" width="50" height="50" alt="QGIS" />
-  <img src="https://img.icons8.com/color/48/000000/postgreesql.png" width="50" height="50" alt="PostGIS" />
 
   <!-- Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" />
@@ -49,8 +48,8 @@ Alongside my frontend expertise, I bring a strong foundation in **programming** 
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nour-okbi&show_icons=true&theme=radical" alt="GitHub Stats" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nour-okbi&theme=radical&hide_border=true" alt="GitHub Streak" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nourokbi&show_icons=true&theme=radical" alt="GitHub Stats" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nourokbi&theme=radical&hide_border=true" alt="GitHub Streak" width="49%"/>
 </p>
 
 ---
