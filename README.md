@@ -2,50 +2,46 @@
 
 🎓 Graduate from the **Faculty of Computers and Artificial Intelligence, Cairo University**  
 📍 Currently a **Trainee at ITI** in the **GIS Track**  
-💻 Passionate **Frontend Developer** & **Programmer**  
+💻 **Frontend Developer** with a solid background in **GIS** & **Programming**  
 
 ---
 
 ## 🚀 About Me  
 
-I’m a 23-year-old developer with a strong foundation in **programming concepts** and **geospatial technologies**.  
-My journey blends **software development** with **GIS expertise**, enabling me to build innovative, data-driven, and interactive solutions.  
+I’m a 23-year-old **Frontend Developer** passionate about creating responsive and interactive web applications using modern tools and technologies.  
+Alongside my frontend expertise, I bring a strong foundation in **programming** and **Geographic Information Systems (GIS)**, which allows me to build innovative and data-driven solutions.  
 
-- 🔭 Currently improving my skills in **Web Development** & **GIS Applications**  
-- 🌱 Exploring **modern frontend frameworks**, **TypeScript**, and **geospatial analysis**  
+- 🔭 Currently improving my skills in **React, TypeScript, and GIS Applications**  
+- 🌱 Exploring **modern frontend frameworks** and **geospatial analysis**  
 - 🤝 Open to collaborating on **Web Apps**, **GIS Projects**, and **Open-Source Contributions**  
 
 ---
 
 ## 🛠️ Tech Stack  
 
-### 🌐 Frontend Development  
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-</p>
+<p align="center">
+  
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
+  
+  <!-- Programming -->
+  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  
+  <!-- GIS -->
+  <img src="https://img.shields.io/badge/ArcGIS-1D4E89?logo=esri&logoColor=white" />
+  <img src="https://img.shields.io/badge/QGIS-589632?logo=qgis&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostGIS-4169E1?logo=postgresql&logoColor=white" />
+  
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white" />
 
-### 💻 Programming Languages  
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-</p>
-
-### 🗺️ GIS & Tools  
-<p>
-  <img src="https://img.icons8.com/color/48/arcgis.png" width="40" height="40" alt="ArcGIS"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/QGIS_logo_new.svg" width="40" height="40" alt="QGIS"/>
-  <img src="https://img.icons8.com/color/48/postgreesql.png" width="40" height="40" alt="PostGIS"/>
-</p>
-
-### ⚙️ Development Tools  
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
 </p>
 
 ---
@@ -69,4 +65,4 @@ My journey blends **software development** with **GIS expertise**, enabling me t
 
 ---
 
-✨ *“Passionate about blending programming with geospatial intelligence to create meaningful solutions.”*  
+✨ *“Frontend Developer passionate about creating interactive web applications, with a solid background in GIS and programming.”*  
