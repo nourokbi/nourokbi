@@ -44,6 +44,7 @@ Alongside my frontend expertise, I bring a strong foundation in **programming** 
 </p>
 
 ---
+<!-- 
 
 ## 📊 GitHub Stats  
 
@@ -53,7 +54,7 @@ Alongside my frontend expertise, I bring a strong foundation in **programming** 
 </p>
 
 ---
-
+-->
 ## 🌍 Let's Connect  
 
 <p align="center">
