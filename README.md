@@ -8,7 +8,7 @@
 
 ## 🚀 About Me  
 
-I’m a 23-year-old **Frontend Developer** passionate about creating responsive and interactive web applications using modern tools and technologies.  
+I’m a **Frontend Developer** passionate about creating responsive and interactive web applications using modern tools and technologies.  
 Alongside my frontend expertise, I bring a strong foundation in **programming** and **Geographic Information Systems (GIS)**, which allows me to build innovative and data-driven solutions.  
 
 - 🔭 Currently improving my skills in **React, TypeScript, and GIS Applications**  
